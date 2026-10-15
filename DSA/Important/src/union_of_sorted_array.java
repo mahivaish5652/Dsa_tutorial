@@ -1,4 +1,6 @@
 import java.util.Arrays;
+// this is the program of union of two sorted array
+
 import java.util.HashSet;
 public class union_of_sorted_array {
     static int[] union(int []nums1 , int []nums2){
