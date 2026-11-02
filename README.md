@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mahivaish5652/Dsa_tutorial/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/mahivaish5652/Dsa_tutorial/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/mahivaish5652/Dsa_tutorial/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mahivaish5652/Dsa_tutorial/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahivaish5652/Dsa_tutorial/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mahivaish5652/Dsa_tutorial/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mahivaish5652/Dsa_tutorial/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
